@@ -1,0 +1,11 @@
+# Copy this content to create your .env.local file
+# Create a new file called .env.local in your project root and paste this content:
+
+NEXT_PUBLIC_SUPABASE_URL=https://zhohpntqzrcsxihlscah.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inpob2hwbnRxenJjc3hpaGxzY2FoIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTgzODc1NTIsImV4cCI6MjA3Mzk2MzU1Mn0.nJXHxhcQRnHTTAuMR5BM0qh9mqw-AHJOxxS_tB16nOw
+
+# Instructions:
+# 1. Create a new file in your project root called .env.local
+# 2. Copy the above two lines (without the # comments)
+# 3. Save the file
+# 4. Restart your development server (npm run dev)

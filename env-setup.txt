@@ -1,0 +1,10 @@
+# Create a file named .env.local in your project root with these contents:
+
+NEXT_PUBLIC_SUPABASE_URL=https://zhohpntqzrcsxihlscah.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inpob2hwbnRxenJjc3hpaGxzY2FoIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTgzODc1NTIsImV4cCI6MjA3Mzk2MzU1Mn0.nJXHxhcQRnHTTAuMR5BM0qh9mqw-AHJOxxS_tB16nOw
+
+# Instructions:
+# 1. Copy the above content
+# 2. Create a new file called .env.local in your project root
+# 3. Paste the content and replace with your actual Supabase credentials
+# 4. Save the file
